@@ -11,10 +11,7 @@ dotnet run
 
 ## Prerequisites:
 
-To work with this project, you will need to install Visual Studio 2022 on your computer along with the C# extension and other prerequisites that are required during the installation process. You need also to download SQL Server Management Studio to use this application. Additionally, you will need to modify the database connection string to ensure that the code can access the correct database on your computer, you will find this string in the beginning of the CustomerRepository file.
+To work with this project, you will need to install Visual Studio 2022 on your computer along with the C# extension and other prerequisites that are required during the installation process. 
 
-## Tools Uses
 
-•	Visual Studio 2022
-•	SQL Server Management Studio (SSMS)
 
