@@ -1,0 +1,7 @@
+C:\Users\magom\OneDrive\Dokumenter\Visual Studio 2022\C-sharp\Assignment3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.csproj.AssemblyReference.cache
+C:\Users\magom\OneDrive\Dokumenter\Visual Studio 2022\C-sharp\Assignment3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magom\OneDrive\Dokumenter\Visual Studio 2022\C-sharp\Assignment3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfoInputs.cache
+C:\Users\magom\OneDrive\Dokumenter\Visual Studio 2022\C-sharp\Assignment3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfo.cs
+C:\Users\magom\OneDrive\Dokumenter\Visual Studio 2022\C-sharp\Assignment3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\magom\OneDrive\Dokumenter\Visual Studio 2022\C-sharp\Assignment3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\magom\OneDrive\Dokumenter\Visual Studio 2022\C-sharp\Assignment3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.MvcApplicationPartsAssemblyInfo.cache
