@@ -3,7 +3,7 @@
 ## Getting started
 
 To get started, you can simply clone this repository on your local machine using the command:
-git clone https://github.com/magomedsaiew26/sql-assignment.git
+git clone https://github.com/magomedsaiew26/web-api/tree/master
 
 #To run the application, use the following command in the terminal:
 
